@@ -10,3 +10,5 @@ The project is divided into three notebooks:
 1) Collecting, transforming, supplementing and combining data for analysis
 2) Time Series Forecasting with ARIMA
 3) Time Series Forecasting with Machine Learning models
+
+Welcome! :)
